@@ -1,8 +1,9 @@
-- ### 👋 Hi, I’m Sudarshan Gosavi
+<h1>👋 Hi, I’m Sudarshan Gosavi</h1>
 <hr/>
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Data Science
-- 📫 How to reach me sudarshangosavi17@gmail.com
+
+- 👀 I’m interested in Full Stack Development<br/>
+- 🌱 I’m currently learning Data Science<br/>
+- 📫 How to reach me sudarshangosavi17@gmail.com<br/>
 
 <!---
 Sudarshan-17/Sudarshan-17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
