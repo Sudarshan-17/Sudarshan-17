@@ -1,5 +1,5 @@
-<h1>👋 Hi, I’m Sudarshan Gosavi</h1>
-<hr/>
+# 👋 Hi, I’m Sudarshan Gosavi</h1>
+
 
 - 👀 I’m interested in Full Stack Development<br/>
 - 🌱 I’m currently learning Data Science<br/>
