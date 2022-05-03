@@ -2,7 +2,7 @@
 
 
 - 👀 I’m interested in Full Stack Development<br/>
-- 🌱 I’m currently learning Data Science<br/>
+- 🌱 I’m currently doing my internship at NVIDIA as Tools Developer<br/>
 - 📫 How to reach me sudarshangosavi17@gmail.com<br/>
 
 <!---
